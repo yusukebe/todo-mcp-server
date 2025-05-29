@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+
+# claude settings
+.claude/settings.local.json
